@@ -1,0 +1,56 @@
+body{
+    background-color: lightgrey;
+    padding: 0px;
+    margin: 0px;
+    display: inline-flex;
+}
+
+.cabecario{
+    height: 70px;
+    width: 100%;
+    background-color: grey;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    font-family: Arial;
+
+}
+
+.empresarial_h1{
+  color: #1c1a1a;
+}
+
+form{
+    position: relative;
+
+}
+
+.imag_botao{
+    height: 20px;
+    width: 20px;
+    border: 20px;
+}
+
+label{
+    font-family: Arial;
+}
+
+.btn_cabecario{
+    position: fixed;
+    right: 80px;
+    top: 20px;
+    height: 30px;
+    width: 90px;
+}
+
+.localizacao{
+ position: fixed;
+ left: 40px;
+ font-size:15px;
+ color: lightgrey;
+
+}

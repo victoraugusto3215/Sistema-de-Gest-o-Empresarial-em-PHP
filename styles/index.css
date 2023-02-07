@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  flex-direction: row;
+  background-color: lightgrey;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+}
+a {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  background-color: gray;
+  font-family: arial;
+  font-size: 30px;
+  color: black;
+  margin: 30px;
+}
+img{
+  position: relative;
+  top: 50px;
+  left: 50px;
+  width: 5px;
+  height: 5px;
+}
